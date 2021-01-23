@@ -69,6 +69,7 @@ namespace ZwiftTelemetryBrowserSource.Services
                 ZwiftPacketMonitor.OutgoingPlayerEvent += (s, e) => {
                     try 
                     {
+                        Logger.LogInformation(JsonConvert.SerializeObject(e.PlayerState));
                         DispatchPlayerStateUpdate(e.PlayerState);
                     }
                     catch (Exception ex) {

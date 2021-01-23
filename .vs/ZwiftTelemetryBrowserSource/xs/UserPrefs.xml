@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{5BDCF588-3B1D-4C9D-9BC4-4EF7EF32D4A9}|Default">
+  <MonoDevelop.Ide.ItemProperties.ZwiftTelemetryBrowserSource PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ZwiftPacket/Monitor.cs">
+    <Files>
+      <File FileName="ZwiftPacket/Monitor.cs" Line="348" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ZwiftTelemetryBrowserSource" expanded="True" selected="True">
+            <Node name="ZwiftTelemetryBrowserSource" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+              <Node name="ZwiftPacket" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mike/code/github/ZwiftTelemetryBrowserSource/Services/ZwiftMonitorService.cs" relfile="Services/ZwiftMonitorService.cs" line="72" column="1" />
+      <Breakpoint file="/Users/mike/code/github/ZwiftTelemetryBrowserSource/ZwiftPacket/Monitor.cs" relfile="ZwiftPacket/Monitor.cs" line="346" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
